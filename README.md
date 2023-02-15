@@ -19,16 +19,27 @@
 **Due to familiarity, I will personally be using VSCode instead of WebStorm.
 
 Branch - A branch is contained in a repository but can be used to work freely without disrupting the "live" version.
+
 Clone - a copy of a repository that is on your PC rarher than online.
+
 Commit - an individual change to a file/set of files
+
 Fetch - unadding changes from the remote repository to your local branch without committing
+
 GIT - open source program for tracking text file changes.
+
 Github - internet hosting service for software development/version control
+
 Merge - takes changes from one branch and applies them to another.
+
 Merge Conflict - a difference that occurs between merged branches
+
 Push - sen committed changes to a remote repository on GitHub
+
 Pull - used to update the local copy of the repo to changes made on GitHub
+
 Remote - version of a repo that is hosted on a server
+
 Repository -repository used to tract the same project that is elseware
 
 REFERENCES: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners, Git commands from own prior knowledge from taking IT114 and using Git/GitHub in highschool, https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html, Google
